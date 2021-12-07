@@ -68,5 +68,5 @@ if __name__ == "__main__":
             os.startfile(os.path.join(music_dir, songs[0]))
             
         elif 'open code ' in query:
-            codePath = 'A:\\vs code\\Microsoft vs code\\Code.exe'
+            codePath = 'C:\\Users\Sagar Solanki\Code'
             os.startfile(codePath)
